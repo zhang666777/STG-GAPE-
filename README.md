@@ -1,6 +1,6 @@
-# SeqSNN
+# STG-GAPE
+STG-GAPE: A Parallel Heterogeneous Convolution and Gated Recurrent Synergistic Method for Spiking Time Series Prediction
 
-A public framework for time-series forecasting with spiking neural networks (SNNs).
 
 ## Related Papers
 * Efficient and Effective Time-Series Forecasting with Spiking Neural Networks, [ICML 2024], (https://arxiv.org/pdf/2402.01533).
