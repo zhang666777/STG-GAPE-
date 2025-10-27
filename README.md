@@ -22,9 +22,9 @@ If you would like to make changes and run your experiments, use:
 `pip install -e .`
 
 ## Training
-Take the `iSpikformer` model as an example:
 
-`python -m SeqSNN.entry.tsforecast exp/forecast/ispikformer/ispikformer_electricity.yml`
+
+`python -m SeqSNN.entry.tsforecast exp/forecast/Spike-TCN/Spike-TCN_electricity.yml`
 
 You can change the `yml` configuration files as you want.
 
