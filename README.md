@@ -32,7 +32,7 @@ You can add, remove, or modify your model architecture in `SeqSNN/network/XXX.py
 
 ## Datasets
 
-Metr-la and Pems-bay are available at [Google Drive](https://drive.google.com/drive/folders/10FOTa6HXPqX8Pf5WRoRwcFnW9BrNZEIX) or [Baidu Yun](https://pan.baidu.com/s/14Yy9isAIZYdU__OYEQGa_g).
+ Pems-bay are available at [Google Drive](https://drive.google.com/drive/folders/10FOTa6HXPqX8Pf5WRoRwcFnW9BrNZEIX) or [Baidu Yun](https://pan.baidu.com/s/14Yy9isAIZYdU__OYEQGa_g).
 Solar and Electricity can be downloaded from  (https://github.com/laiguokun/multivariate-time-series-data).
 
 The folder structure of this project is as follows:
